@@ -8,7 +8,7 @@ What was the assignment
 
 Image of your work
 
-![The Box](images/TheBox.jpg?raw=true)
+![The Box](images/TheBox.jpg)
 
 ## Code (if assignment involes code)
 
