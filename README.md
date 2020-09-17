@@ -8,7 +8,7 @@ What was the assignment
 
 ## Picture
 
-Image of your work
+![The Box](images/TheBox.jpg)
 
 ## Code (if assignment involes code)
 
