@@ -9,7 +9,7 @@ What was the assignment
 Image of your work
 ![The Box](https://github.com/OneCHSEngr/Sandbox/blob/master/images/TheBox.jpg?raw=true)
 
-<img src="https://github.com/OneCHSEngr/Sandbox/blob/master/images/TheBox.jpg?raw=true" alt="The Box" style="width:128px;height:128px;">
+<img src="https://github.com/OneCHSEngr/Sandbox/blob/master/images/TheBox.jpg?raw=true" alt="The Box" style="width:50px;height:50px;">
 
 ## Reflection
 
