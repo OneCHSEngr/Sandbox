@@ -8,6 +8,8 @@ What was the assignment
 
 Image of your work
 
+![The Box](images/TheBox.jpg?raw=true)
+
 ## Code (if assignment involes code)
 
 Actual code or link to code file in repository
