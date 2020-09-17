@@ -7,6 +7,7 @@ What was the assignment
 ## Picture
 
 Image of your work
+https://github.com/OneCHSEngr/Sandbox/blob/master/images/TheBox.jpg?raw=true
 
 ## Reflection
 
