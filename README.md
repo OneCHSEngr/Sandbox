@@ -7,9 +7,10 @@ What was the assignment
 ## Picture
 
 Image of your work
-![The Box](https://github.com/OneCHSEngr/Sandbox/blob/master/images/TheBox.jpg?raw=true)
 
-<img src="https://github.com/OneCHSEngr/Sandbox/blob/master/images/TheBox.jpg" alt="The Box" width="128" height="128">
+## Code (if assignment involes code)
+
+Actual code or link to code file in repository
 
 ## Reflection
 
