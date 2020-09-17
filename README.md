@@ -10,7 +10,7 @@ Image of your work
 
 ![The Box](images/TheBox.jpg)
 
-<img src="https://github.com/OneCHSEngr/Sandbox/blob/master/images/TheBox.jpg?raw=true" alt="The Box" width="128" height="128">
+<img src="./images/TheBox.jpg?raw=true" alt="The Box" width="128" height="128">
 
 ## Code (if assignment involes code)
 
