@@ -9,6 +9,7 @@ What was the assignment
 ## Picture
 
 ![anything I want](images/AVIDLogoBlue.jpg)
+<img src="images/AVIDLogoBlue.jpg" alt="anything I want" width="100" height="100">
 
 ![The Box](images/TheBox.jpg)
 
