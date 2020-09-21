@@ -8,6 +8,8 @@ What was the assignment
 
 ## Picture
 
+![anything I want](images\AVIDLogoBlue.jpg)
+
 ![The Box](images/TheBox.jpg)
 
 <img src="images/TheBox.jpg" alt="The Box" width="128" height="128">
