@@ -8,7 +8,7 @@ What was the assignment
 
 ## Picture
 
-![anything I want](images\AVIDLogoBlue.jpg)
+![anything I want](images/AVIDLogoBlue.jpg)
 
 ![The Box](images/TheBox.jpg)
 
